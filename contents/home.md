@@ -10,9 +10,5 @@ My interests lie in geometry and topology, especially in symplectic geometry and
 
 #### Recent work
 
-I am learning about spectral sequence and gauge theory.
-
-For a longer-term plan, I wish to write an exercise collection on algebraic topology in the following half a year.
-
-#### 
+I am learning about PDE.
 
