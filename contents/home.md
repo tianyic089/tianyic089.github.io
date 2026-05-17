@@ -10,5 +10,5 @@ My interests lie in geometry and topology, especially in symplectic geometry and
 
 #### Recent work
 
-I am learning about PDE.
+I am learning about complex geometry, and want to learn Calabi-Yau manifold and mirror symmetry.
 
